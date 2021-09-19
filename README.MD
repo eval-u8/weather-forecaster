@@ -1,5 +1,6 @@
 <p align="center">
     <img src="https://img.shields.io/badge/Javascript-yellow" />
+    <img src="https://img.shields.io/badge/jQuery-red" />
     <img src="https://img.shields.io/badge/CSS-blue"  />
     <img src="https://img.shields.io/badge/HTML5-orange" />
     <img src="https://img.shields.io/badge/Bootstrap-purple" >
