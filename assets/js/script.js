@@ -106,7 +106,7 @@ var displayUvIndex = function (index) {
     uvIndexValue.textContent = index.value;
 
     if (index.value <= 2) {
-        uvIndexValue.classList = "favorable";
+        uvIndexValue.classList = "nice";
     } else if (index.value > 2 && index.value <= 8) {
         uvIndexValue.classList = "moderate ";
     } else if (index.value > 8) {
