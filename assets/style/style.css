@@ -6,7 +6,8 @@
     background-size: cover;
     background-position-y: 40%;
     color:white;
-    background-color:rgb(83, 83, 83);
+    padding: 1%;
+    background-image: linear-gradient(to right, rgb(255, 153, 0) , rgb(0, 153, 255));
     position:relative !important;
 }
 
@@ -54,3 +55,4 @@ span.nice{
 .card {
     background-color: #0275d8;
 }
+
