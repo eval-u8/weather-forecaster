@@ -2,8 +2,45 @@
     font-family: sans-serif;
 }
 
+#header{
+    background-size: cover;
+    background-position-y: 40%;
+    color:white;
+    background-color:rgb(83, 83, 83);
+    position:relative !important;
+}
+
+#header h1{
+    font-size: 400%;
+    text-align: center;
+    font-weight: bold;
+}
+
 .search-column{
-    background-color:	#D3D3D3;
+    width:80%;
+}
+
+span.severe{
+    padding: 3px;
+    background-color: red;
+    color:white;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+span.moderate{
+    padding: 3px;
+    background-color: yellow;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+span.nice{
+    padding: 3px;
+    background-color: green;
+    border-radius: 5px;
+    color:white;
+    font-weight: bold;
 }
 
 .list-group-item{
@@ -14,19 +51,6 @@
     flex:auto
 }
 
-span.severe{
-    padding: 3px;
-    background-color: red;
-    color:white;
-}
-
-span.moderate{
-    padding: 3px;
-    background-color: yellow;
-}
-
-span.nice{
-    padding: 3px;
-    background-color: green;
-    color:white;
+.card {
+    background-color: #0275d8;
 }

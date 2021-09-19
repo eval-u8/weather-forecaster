@@ -139,7 +139,7 @@ var display5Day = function (weather) {
         var dailyForecast = forecast[i];
 
         var forecastElmnt = document.createElement("div");
-        forecastElmnt.classList = "card bg-primary text-light m-2";
+        forecastElmnt.classList = "card text-light m-2";
 
         //create date element
         var forecastDate = document.createElement("h5");
