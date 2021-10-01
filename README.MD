@@ -19,7 +19,7 @@ Weather Forecaster will remember previously searched cities! And shows 5 days in
 
 ## Preview 👀
 [Live page](https://evalecillos.github.io/weather-forecaster/)
-![Preview](./assets/Images/preview.png)
+![Preview](./assets/images/preview.png)
 
 ## License 📓
 [MIT](https://choosealicense.com/licenses/mit/)
